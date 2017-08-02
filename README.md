@@ -1,4 +1,4 @@
-# Open Google Calendar in Chrome
+# Open Google Calendar in Chrome from Alfred
 
 This is a simple [Alfred](https://www.alfredapp.com/) workflow that either finds https://calendar.google.com in one of your tabs and focuses on it or opens a new tab to Google Calendar.
 
